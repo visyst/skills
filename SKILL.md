@@ -2,8 +2,9 @@
 name: brand-grill
 description: Guides solo founders through an adaptive, jargon-free brand discovery interview and synthesizes their answers into clear brand findings or a designer-ready foundation. Use when a founder asks to define, clarify, discover, articulate, or document their company brand, mission, vision, values, positioning, personality, voice, audiences, or creative direction.
 license: MIT
+disable-model-invocation: true
 metadata:
-  author: Ekansh and Visyst
+  author: Visyst
   version: "0.1.0"
 ---
 
